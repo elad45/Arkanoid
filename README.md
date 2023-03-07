@@ -8,7 +8,7 @@ Arkanoid game developed in Java implementing OOP concepts like:
 * Generics
 
 The game has 4 levels, before level begin, it has a countdown of 3 seconds 
-You can pause the game by pressing "p" and continue by pressing spacebar key.
+You can pause the game by pressing "p" and resume by pressing the spacebar key.
 
 
 
