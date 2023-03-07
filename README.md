@@ -1,3 +1,7 @@
+<h1>Arkanoid</h1>
+The game has 4 levels. 
+You can pause the game by pressing "p" and continue by pressing spacebar key.
+
 <h1> Introduction </h1>
 An Arkanoid game written in Java, implementing OOP concepts like:
 
