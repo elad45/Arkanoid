@@ -31,4 +31,3 @@ In case game is not running:
 cd src
 ```
 and run main function in RunGame.java
-"# ArkanoidGame" 
