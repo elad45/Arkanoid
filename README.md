@@ -1,15 +1,16 @@
 <h1>Arkanoid</h1>
-The game has 4 levels. 
-You can pause the game by pressing "p" and continue by pressing spacebar key.
-
-<h1> Introduction </h1>
-An Arkanoid game written in Java, implementing OOP concepts like:
+Arkanoid game developed in Java implementing OOP concepts like:
 
 * Polymorphism, Inheritance
 
 * Design Patterns
 
 * Generics
+
+The game has 4 levels, before level begin, it has a countdown of 3 seconds 
+You can pause the game by pressing "p" and continue by pressing spacebar key.
+
+
 
 <h1>Installation:</h1>
 
